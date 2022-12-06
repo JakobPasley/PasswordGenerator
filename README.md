@@ -13,3 +13,7 @@ Version 1.1 // Dec - 01 - 2022
 Version 1.2 // Dec - 06 - 2022  
    +Added function that makes sure user input for password length is a valid integer.  
    ~Fixed bug where password was being outputed at wrong length.  
+
+Version 1.3 // Dec - 06 - 2022   
+   +Added function that makes sure all user inputs are valid across whole program.  
+   ~Fixed bug where user could skip entering parameters.
