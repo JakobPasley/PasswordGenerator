@@ -11,5 +11,5 @@ Version 1.1 // Dec - 01 - 2022
    +Added functions that tell user their selections for each parameter.  
 
 Version 1.2 // Dec - 06 - 2022  
-   +Added function that makes sureuser input for password length is a valid integer.  
+   +Added function that makes sure user input for password length is a valid integer.  
    ~Fixed bug where password was being outputed at wrong length.  
